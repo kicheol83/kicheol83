@@ -40,12 +40,27 @@ VSCode, Postman, Yarn, NVM, NPM, Z Shell, FileZilla, GitHub, MongoDB Compass, Fi
 ## 🖼 Skills Icons
 
 <p align="center">
-  <!-- Frontend -->
-  <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,react,redux,materialui,graphql,threejs&perline=10" />
-  <br/>
-  <!-- Backend -->
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,jest,docker&perline=10" />
-  <br/>
-  <!-- DevOps & Tools -->
-  <img src="https://skillicons.dev/icons?i=linux,nginx,git,github,vscode,postman,figma&perline=10" />
+
+<!-- Frontend -->
+<img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,ejs,react,redux,axios,materialui,graphql,threejs&perline=12" />
+
+<!-- Extra Frontend tools -->
+<img src="https://skillicons.dev/icons?i=animejs,swiper&perline=12" />
+
+<br/>
+
+<!-- Backend -->
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mongoose,jwt,bcrypt,multer,socketio,postgres,typeorm,jest&perline=12" />
+
+<br/>
+
+<!-- DevOps -->
+<img src="https://skillicons.dev/icons?i=linux,nginx,docker,git,github&perline=12" />
+
+<br/>
+
+<!-- Tools -->
+<img src="https://skillicons.dev/icons?i=vscode,postman,yarn,npm,figma&perline=12" />
+
 </p>
+
