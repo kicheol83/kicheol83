@@ -77,6 +77,10 @@ VSCode, Postman, Yarn, NVM, NPM, Z Shell, FileZilla, GitHub, MongoDB Compass, Fi
 
 ---
 
+![GitHub followers](https://img.shields.io/github/followers/kicheol83?style=social)
+![GitHub stars](https://img.shields.io/github/stars/kicheol83?style=social)
+
+
 ## 🖼 Skills Icons
 
 <p align="center">
