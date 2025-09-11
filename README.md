@@ -1,7 +1,7 @@
 # 👋 안녕하세요, 저는 Javohir (Ned) 입니다.
 
 💻 **풀스택 개발자 (Full Stack Developer)**  
-🌱 현재 배우는 중: Python, SQL, PHP  
+🌱 현재 배우는 중: Python, MySQL, next => PHP  
 📱 관심 분야: 모바일 앱 & 사이버 보안  
 📝 좌우명: _"열심히 일하고, 친절하게 대하자"_
 
