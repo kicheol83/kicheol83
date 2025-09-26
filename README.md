@@ -77,7 +77,7 @@ VSCode, Postman, Yarn, NVM, NPM, Z Shell, FileZilla, GitHub, MongoDB Compass, Fi
 
 ---
 
-## 🖼 Skills Icons
+  ## 🖼 Skills Icons
 
 <p align="center">
 
@@ -85,12 +85,16 @@ VSCode, Postman, Yarn, NVM, NPM, Z Shell, FileZilla, GitHub, MongoDB Compass, Fi
 <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,ejs,react,redux,axios,materialui,graphql,threejs&perline=12" />
 
 <!-- Extra Frontend tools -->
-<img src="https://skillicons.dev/icons?i=animejs,swiper&perline=12" />
+<img src="https://animejs.com/documentation/assets/img/anime-mini-logo.svg" width="48" height="48" title="Anime.js"/>
+<img src="https://swiperjs.com/images/swiper-logo.svg" width="48" height="48" title="Swiper"/>
 
 <br/>
 
 <!-- Backend -->
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mongoose,jwt,bcrypt,multer,socketio,postgres,typeorm,jest&perline=12" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,typeorm,socketio,jwt,jest&perline=12" />
+<img src="https://avatars.githubusercontent.com/u/7552965?s=200&v=4" width="48" height="48" title="Mongoose"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48" height="48" title="Multer"/>
+<img src="https://avatars.githubusercontent.com/u/237961?s=200&v=4" width="48" height="48" title="Bcrypt"/>
 
 <br/>
 
@@ -103,4 +107,5 @@ VSCode, Postman, Yarn, NVM, NPM, Z Shell, FileZilla, GitHub, MongoDB Compass, Fi
 <img src="https://skillicons.dev/icons?i=vscode,postman,yarn,npm,figma&perline=12" />
 
 </p>
+
 
