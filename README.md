@@ -82,10 +82,10 @@ VSCode, Postman, Yarn, NVM, NPM, Z Shell, FileZilla, GitHub, MongoDB Compass, Fi
 <p align="center">
 
 <!-- Frontend -->
-<img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,ejs,react,redux,axios,materialui,graphql,threejs&perline=12" />
+<img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,react,axios,materialui,graphql,threejs&perline=12" />
 
 <!-- Backend -->
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,typeorm,socketio,jwt,jest&perline=12" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,jest&perline=12" />
 
 <!-- DevOps -->
 <img src="https://skillicons.dev/icons?i=linux,nginx,docker,git,github&perline=12" />
